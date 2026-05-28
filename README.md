@@ -1,0 +1,1 @@
+This project demonstrates end-to-end data engineering and analysis using a real-world financial API. It collects live market data for the top cryptocurrencies, stores it over time, and produces visualizations to track price movements and percentage changes across multiple timeframes.
